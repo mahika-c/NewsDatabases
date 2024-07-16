@@ -1,0 +1,501 @@
+id_newsdesertsdigital,outlet_name_newsdesertsdigital,state_newsdesertsdigital,city_newsdesertsdigital,county_newsdesertsdigital,medium_type_newsdesertsdigital,audience_newsdesertsdigital,ethnic_media_newsdesertsdigital,url_cleaned
+DG0001,Shoals Insider,AL,Muscle Shoals,Colbert County,Online News Organization,Local,No,shoalsinsider.com
+DG0002,Birmingham Watch,AL,Birmingham,Jefferson County,Online News Organization,State,No,birminghamwatch.org
+DG0003,Magnolia Reporter,AR,Magnolia,Columbia County,Online News Organization,State,No,magnoliareporter.com
+DG0004,Monticello Live,AR,Monticello,Drew County,Online News Organization,Local,No,monticellolive.com
+DG0005,Seark Today,AR,Monticello,Drew County,Online News Organization,Local,No,searktoday.com
+DG0006,Saline River Chronicle,AR,Monticello,Drew County,Online News Organization,Local,No,salineriverchronicle.com
+DG0007,Hope Prescott,AR,Hope,Hempstead County,Online News Organization,Local,No,hopeprescott.com
+DG0008,Inside Fort Smith,AR,Fort Smith,Sebastian County,Online News Organization,Local,No,insidefortsmith.com
+DG0009,Fayetteville Flyer,AR,Fayetteville,Washington County,Online News Organization,Local,No,fayettevilleflyer.com
+DG0010,Tucson Sentinel,AZ,Tucson,Pima County,Online News Organization,State,No,tucsonsentinel.com
+DG0011,Berkeleyside,CA,Berkeley,Alameda County,Online News Organization,Local,No,berkeleyside.com
+DG0012,Eville Eye,CA,Emeryville,Alameda County,Online News Organization,Local,No,evilleeye.com
+DG0013,Edsource,CA,Oakland,Alameda County,Online News Organization,Regional,No,edsource.org
+DG0014,California Health Report,CA,Oakland,Alameda County,Online News Organization,State,No,calhealthreport.org
+DG0015,Bay City News Foundation,CA,San Francisco,San Francisco County,Online News Organization,Local,No,localnewsmatters.org
+DG0016,Chico Sol,CA,Chico,Butte County,Online News Organization,Local,No,chicosol.org
+DG0017,East County Today,CA,Antioch,Contra Costa County,Online News Organization,Regional,No,eastcountytoday.net
+DG0018,On the 101,CA,Central coast,County,Online News Organization,Local,No,onthe101.com
+DG0019,South Tahoe Now,CA,South Lake Tahoe,El Dorado County,Online News Organization,Local,No,southtahoenow.com
+DG0020,Lost Coast Outpost,CA,Ferndale,Humboldt County,Online News Organization,Local,No,lostcoastoutpost.com
+DG0021,Delano Now,CA,Delano,Kern County,Online News Organization,Local,No,delanonow.com
+DG0022,Lake County News,CA,Lakeport,Lake County,Online News Organization,Local,No,lakeconews.com
+DG0023,OC Indy,CA,Long Beach,Los Angeles County,Online News Organization,Local,No,ocindy.com
+DG0024,Leimert Park Beat,CA,Los Angeles,Los Angeles County,Online News Organization,Local,No,leimertparkbeat.com
+DG0025,Altadena Now,CA,Altadena,Los Angeles County,Online News Organization,Local,No,altadena-now.com
+DG0026,Pasadena Now,CA,Pasadena,Los Angeles County,Online News Organization,Local,No,pasadenanow.com
+DG0027,Calbuzz,CA,Culver City,Los Angeles County,Online News Organization,Local,No,calbuzz.com
+DG0028,Eastsider,CA,Los Angeles,Los Angeles County,Online News Organization,Local,No,theeastsiderla.com
+DG0029,Larchmont Buzz,CA,Los Angeles,Los Angeles County,Online News Organization,Local,No,larchmontbuzz.com
+DG0030,Alhambra Source,CA,Alhambra,Los Angeles County,Online News Organization,Local,No,alhambrasource.org
+DG0031,Silver Lake Star,CA,Silver Lake,Los Angeles County,Online News Organization,Local,No,silverlakestar.com
+DG0032,Crosstown,CA,Los Angeles,Los Angeles County,Online News Organization,Local,No,xtown.la
+DG0033,Long Beach Post,CA,Long Beach,Los Angeles County,Online News Organization,Local,No,lbpost.com
+DG0034,sustainablecity,CA,Whittier,Los Angeles County,Online News Organization,Local,No,sustainablecity.co
+DG0035,Mendocino Voice,CA,Ukiah,Mendocino County,Online News Organization,Local,No,mendovoice.com
+DG0036,Voices of Monterey Bay,CA,Monterey,Monterey County,Online News Organization,Local,Yes,voicesofmontereybay.org
+DG0037,YubaNet,CA,Nevada City,Nevada County,Online News Organization,Regional,No,yubanet.com
+DG0038,Voice of Orange County,CA,Santa Ana,Orange County,Online News Organization,Local,No,voiceofoc.org
+DG0039,Menifee 24-7,CA,Menifee,Riverside County,Online News Organization,Local,No,menifee247.com
+DG0040,Coachella Valley Independent,CA,Cathedral City,Riverside County,Online News Organization,Local,No,cvindependent.com
+DG0041,Voices: River City,CA,Sacramento,Sacramento County,Online News Organization,Local,No,voicesrivercity.com
+DG0042,Cal Matters,CA,Sacramento,Sacramento County,Online News Organization,Local,No,calmatters.org
+DG0043,Rio Linda Online,CA,Rio Linda,Sacramento County,Online News Organization,Local,No,riolindaonline.com
+DG0044,Benito Link,CA,Hollister,San Benito County,Online News Organization,Local,No,benitolink.com
+DG0045,Times of San Diego,CA,San Diego,San Diego County,Online News Organization,Local,No,timesofsandiego.com
+DG0046,Escondido Grapevine,CA,Escondido,San Diego County,Online News Organization,Local,No,escondidograpevine.com
+DG0047,Coronado Times,CA,Coronado,San Diego County,Online News Organization,Local,No,coronadotimes.com
+DG0048,San Francisco Public Press,CA,San Francisco,San Francisco County,Online News Organization,Local,No,sfpublicpress.org
+DG0049,Mission Local,CA,San Francisco,San Francisco County,Online News Organization,Local,No,missionlocal.com
+DG0050,This San Francisco,CA,San Francisco,San Francisco County,Online News Organization,Local,No,thissanfrancisco.com
+DG0051,SoundingsMag,CA,Stockton,San Joaquin County,Online News Organization,Local,No,soundingsmag.net
+DG0052,Noozhawk,CA,Santa Barbara,Santa Barbara County,Online News Organization,Local,No,noozhawk.com
+DG0053,Edhat,CA,Santa Barbara,Santa Barbara County,Online News Organization,Local,No,edhat.com
+DG0054,San Jose Spotlight,CA,San Jose,Santa Clara County,Online News Organization,Local,No,sanjosespotlight.com
+DG0055,Santa Cruz Local,CA,Santa Cruz,Santa Cruz County,Online News Organization,Local,No,santacruzlocal.org
+DG0056,Longmont Observer,CO,Longmont,Boulder County,Online News Organization,Local,No,longmontobserver.org
+DG0057,High Country News,CO,Paonia,Delta County,Online News Organization,Regional,No,hcn.org/support
+DG0058,Confluence Denver,CO,Denver,Denver County,Online News Organization,Local,No,confluence-denver.com
+DG0059,Denverite,CO,Denver,Denver County,Online News Organization,Local,No,denverite.com
+DG0060,Empowering Colorado,CO,Denver,Denver County,Online News Organization,State,No,empoweringco.com
+DG0061,Colorado Independent,CO,Denver,Denver County,Online News Organization,State,No,coloradoindependent.com
+DG0062,Colorado Sun,CO,Denver,Denver County,Online News Organization,State,No,coloradosun.com
+DG0063,Golden Today,CO,Golden,Jefferson County,Online News Organization,Local,No,goldentoday.com
+DG0064,Aspen Journalism,CO,Aspen,Pitkin County,Online News Organization,Local,No,aspenjournalism.org
+DG0065,Pueblo Pulp,CO,Pueblo,Pueblo County,Online News Organization,Regional,No,pueblopulp.com
+DG0066,Tribuna,CT,Danbury,Fairfield County,Online News Organization,Local,Yes,tribunainenglish.com
+DG0067,Good Morning Wilton,CT,Wilton,Fairfield County,Online News Organization,Local,No,goodmorningwilton.com
+DG0068,Only in Bridgeport,CT,Bridgeport,Fairfield County,Online News Organization,Local,No,onlyinbridgeport.com
+DG0069,Greenwich Free Press,CT,Greenwich,Fairfield County,Online News Organization,Local,No,greenwichfreepress.com
+DG0070,New Canaanite,CT,New Canaan,Fairfield County,Online News Organization,Local,No,newcanaanite.com
+DG0071,Nancy on Norwalk,CT,Norwalk,Fairfield County,Online News Organization,Local,No,nancyonnorwalk.com
+DG0072,Weston Today,CT,Weston,Fairfield County,Online News Organization,Local,No,weston-today.com
+DG0073,Westport Now,CT,Westport,Fairfield County,Online News Organization,Local,No,westportnow.com
+DG0074,We-Ha.com,CT,West Hartford,Hartford County,Online News Organization,Local,No,we-ha.com
+DG0075,CT Mirror,CT,Hartford,Hartford County,Online News Organization,State,No,ctmirror.org
+DG0076,CT Latino News,CT,Farmington,Hartford County,Online News Organization,State,No,ctlatinonews.com
+DG0077,CTNewsJunkie,CT,Hartford,Hartford County,Online News Organization,State,No,ctnewsjunkie.com
+DG0078,Litchfield.bz,CT,Litchfield,Litchfield County,Online News Organization,Local,No,litchfield.bz
+DG0079,Valley News Now,CT,Essex,Middlesex County,Online News Organization,Local,No,valleynewsnow.com
+DG0080,Haddam Now,CT,Haddam,Middlesex County,Online News Organization,Local,No,haddamnow.com
+DG0081,Valley Independent Sentinel,CT,Derby,New Haven County,Online News Organization,Local,No,valleyindy.org
+DG0082,New Haven Independent,CT,New Haven,New Haven County,Online News Organization,Local,No,newhavenindependent.org
+DG0083,Branford Seven,CT,Branford,New Haven County,Online News Organization,Local,No,branfordseven.com
+DG0084,Connecticut Health Investigative Team,CT,New Haven,New Haven County,Online News Organization,State,No,c-hit.org
+DG0085,Lyme Line,CT,Old Lyme,New London County,Online News Organization,Local,No,lymeline.com
+DG0086,D.C. Witness,DC,District of Columbia,District of Columbia,Online News Organization,Local,No,dcwitness.org
+DG0087,Technical.ly D.C,DC,District of Columbia,District of Columbia,Online News Organization,Local,No,technical.ly/dc
+DG0088,PoPville,DC,District of Columbia,District of Columbia,Online News Organization,Local,No,popville.com
+DG0089,DC Line,DC,Washington,District of Columbia,Online News Organization,Local,No,thedcline.org
+DG0090,Greater Greater Washington,DC,District of Columbia,District of Columbia,Online News Organization,Regional,No,ggwash.org
+DG0091,Technical.ly Delaware,DE,,County,Online News Organization,State,No,technical.ly/delaware
+DG0092,Milford Live,DE,Milford,Kent County,Online News Organization,Local,No,milfordlive.com
+DG0093,Delaware Business Now,DE,Newark,New Castle County,Online News Organization,State,No,delawarebusinessnow.com
+DG0094,Space Coast Daily,FL,Melbourne,Brevard County,Online News Organization,Local,No,spacecoastdaily.com
+DG0095,Florida Bulldog,FL,Fort Lauderdale,Broward County,Online News Organization,State,No,browardbulldog.org
+DG0096,83 Degrees,FL,Tampa,Hillsborough County,Online News Organization,Local,No,83degreesmedia.com
+DG0097,Vero Communique,FL,Vero Beach,Indian River County,Online News Organization,Local,No,verocommunique.com
+DG0098,New Tropic,FL,Miami,Miami-Dade County,Online News Organization,Local,No,thenewtropic.com
+DG0099,Coconut Grove Grapevine,FL,Coconut Grove,Miami-Dade County,Online News Organization,Local,No,coconutgrovegrapevine.com
+DG0100,Apopka Voice,FL,Apopka,Orange County,Online News Organization,Local,No,theapopkavoice.com
+DG0101,Bungalower,FL,Orlando,Orange County,Online News Organization,Local,No,bungalower.com
+DG0102,LKLD Now,FL,Lakeland,Polk County,Online News Organization,Local,No,lkldnow.com
+DG0103,LakeWalesNews.net,FL,Lake Wales,Polk County,Online News Organization,Local,No,lakewalesnews.net
+DG0104,Treasure Coast News,FL,Port St Lucie,St. Lucie County,Online News Organization,Local,No,treasurecoast.tv
+DG0105,Cobb County Courier,GA,Smyrna,Cobb County,Online News Organization,Local,No,riveredges.com
+DG0106,East Cobb News,GA,Marietta,Cobb County,Online News Organization,Local,No,eastcobbnews.com
+DG0107,Decaturish,GA,Decatur,DeKalb County,Online News Organization,Local,No,decaturish.com
+DG0108,Project Q Atlanta,GA,Atlanta,DeKalb County,Online News Organization,Local,No,projectq.us
+DG0109,Georgia Health News,GA,Atlanta,DeKalb County,Online News Organization,State,No,georgiahealthnews.com
+DG0110,My Home Rule News,GA,College Park,Fulton County,Online News Organization,Local,No,myhomerulenews.com
+DG0111,Now Habersham,GA,Clarkesville,Habersham County,Online News Organization,Local,No,nowhabersham.com
+DG0112,Monroe Local,GA,Monroe,Walton County,Online News Organization,Local,No,monroelocal.org
+DG0113,Honolulu Civil Beat,HI,Honolulu,Honolulu County,Online News Organization,State,No,civilbeat.org
+DG0114,Perry News,IA,Perry,Dallas County,Online News Organization,Local,No,theperrynews.com
+DG0115,Iowa Watch,IA,Iowa City,Johnson County,Online News Organization,State,No,iowawatch.org
+DG0116,Oscaloosa News,IA,Oskaloosa,Mahaska County,Online News Organization,Local,No,oskynews.org
+DG0117,Boise Guardian,ID,Boise,Ada County,Online News Organization,Local,No,boiseguardian.com
+DG0118,Boise Dev,ID,Boise,Ada County,Online News Organization,Local,No,boisedev.com
+DG0119,Idaho Education News,ID,Boise,Ada County,Online News Organization,State,No,idahoednews.org
+DG0120,East Idaho News,ID,Idaho Falls,Bonneville County,Online News Organization,Local,No,eastidahonews.com
+DG0121,Investigate Midwest,IL,Champaign,Champaign County,Online News Organization,Regional,No,investigatemidwest.org
+DG0122,Evanston Now,IL,Evanston,Cook County,Online News Organization,Local,No,evanstonnow.com
+DG0123,City Bureau,IL,Chicago,Cook County,Online News Organization,Local,No,citybureau.org
+DG0124,eNews Park Forest,IL,Park Forest,Cook County,Online News Organization,Local,No,enewspf.com
+DG0125,Logan Squarist,IL,Chicago,Cook County,Online News Organization,Local,No,logansquarist.com
+DG0126,Homewood-Flossmoor Chronicle,IL,Homewood,Cook County,Online News Organization,Local,No,hfchronicle.com
+DG0127,Village Free Press,IL,Maywood,Cook County,Online News Organization,Local,No,vfpress.news
+DG0128,Daily Line,IL,Chicago,Cook County,Online News Organization,Local,No,thedailyline.net
+DG0129,Happenstance,IL,Chicago,Cook County,Online News Organization,Local,No,happenstanceapp.com
+DG0130,Chicago Reporter,IL,Chicago,Cook County,Online News Organization,Local,No,chicagoreporter.com
+DG0131,Austin Talks,IL,Chicago,Cook County,Online News Organization,Local,No,austintalks.org
+DG0132,Edgeville Buzz,IL,Edgewater,Cook County,Online News Organization,Local,No,edgevillebuzz.com
+DG0133,Chicago Public Square,IL,Chicago,Cook County,Online News Organization,Local,No,chicagopublicsquare.com
+DG0134,Block Club Chicago,IL,Chicago,Cook County,Online News Organization,State,No,blockclubchicago.org
+DG0135,Better Government Association,IL,Chicago,Cook County,Online News Organization,State,No,bettergov.org
+DG0136,Cicero Independiente,IL,Cicero,Cook County,Online News Organization,Local,No,ciceroindependiente.com
+DG0137,Daily North Shore,IL,Highwood,Lake County,Online News Organization,Local,No,dailynorthshore.com
+DG0138,Riverbender,IL,Alton,Madison County,Online News Organization,Local,No,riverbender.com
+DG0139,Metamora Herald,IL,Metamora,Woodford County,Online News Organization,Local,No,metamoraherald.com
+DG0140,HSJ Online,IN,Hope,Bartholomew County,Online News Organization,Local,No,hsjonline.org
+DG0141,Muncie Voice,IN,Muncie,Delaware County,Online News Organization,Local,No,muncievoice.com
+DG0142,Dubois County Free Press,IN,Huntingburg,Dubois County,Online News Organization,Local,No,duboiscountyfreepress.com
+DG0143,Indy Politics,IN,Indianapolis,Marion County,Online News Organization,State,No,indypolitics.org
+DG0144,NUVO,IN,Indianapolis,Marion County,Online News Organization,State,No,nuvo.net
+DG0145,Shawnee Mission Post,KS,Shawnee,Johnson County,Online News Organization,Local,No,shawneemissionpost.com
+DG0146,Kentucky Center for Investigative Reporting,KY,Louisville,Jefferson County,Online News Organization,State,No,kycir.org
+DG0147,KY Forward,KY,Edgewood,Kenton County,Online News Organization,State,No,kyforward.com
+DG0148,Ohio County Monitor,KY,Beaver Dam,Ohio County,Online News Organization,Local,No,ocmonitor.com
+DG0149,Current,LA,Lafeyette,Lafeyette Parish County,Online News Organization,Local,No,thecurrentla.com
+DG0150,Uptown Messenger,LA,New Orleans,Orleans Parish,Online News Organization,Local,No,uptownmessenger.com
+DG0151,Mid-City Messenger,LA,New Orleans,Orleans Parish,Online News Organization,Local,No,midtownmessenger.com
+DG0152,Lens NOLA,LA,New Orleans,Orleans Parish,Online News Organization,Local,No,thelensnola.org
+DG0153,Gentilly Messenger,LA,New Orleans,Orleans Parish,Online News Organization,Local,No,gentillymessenger.com
+DG0154,Silicon Bayou News,LA,New Orleans,Orleans Parish,Online News Organization,Local,No,siliconbayounews.com
+DG0155,Bayou Brief,LA,New Orleans,Orleans Parish,Online News Organization,State,No,bayoubrief.com
+DG0156,Cape Cod Today,MA,Cape Cod,Barnstable County,Online News Organization,Local,No,capecodtoday.com
+DG0157,Greylock Glass,MA,Williamstown,Berkshire County,Online News Organization,Local,No,greylockglass.com
+DG0158,Berkshire Edge,MA,Pittsfield,Berkshire County,Online News Organization,Local,No,theberkshireedge.com
+DG0159,iBerkshires,MA,North Adams,Berkshire County,Online News Organization,Local,No,iberkshires.com
+DG0160,Localne.ws,MA,Rowley,Essex County,Online News Organization,Local,No,thelocalne.ws
+DG0161,Banyan Project,MA,Haverhill,Essex County,Online News Organization,Local,No,banyanproject.coop
+DG0162,Your Tewksbury Today,MA,Tewksbury,Middlesex County,Online News Organization,Local,No,yourtewksburytoday.com
+DG0163,Your Arlington,MA,Arlington,Middlesex County,Online News Organization,Local,No,yourarlington.com
+DG0164,Belmontonian,MA,Belmont,Middlesex County,Online News Organization,Local,No,belmontonian.com
+DG0165,Bedford Citizen,MA,Bedford,Middlesex County,Online News Organization,Local,No,thebedfordcitizen.org
+DG0166,Cambridge Day,MA,Cambridge,Middlesex County,Online News Organization,Local,No,cambridgeday.com
+DG0167,Framingham Source,MA,Framingham,Middlesex County,Online News Organization,Local,No,framinghamsource.com
+DG0168,Hopkinton News,MA,Hopkinton,Middlesex County,Online News Organization,Local,No,hopnews.com
+DG0169,Watertown MA News,MA,Watertown,Middlesex County,Online News Organization,Local,No,watertownmanews.com
+DG0170,Swellesley Report,MA,Wellesley,Norfolk County,Online News Organization,Local,No,theswellesleyreport.com
+DG0171,Universal Hub,MA,Boston,Suffolk County,Online News Organization,Local,No,universalhub.com
+DG0172,Open Media Boston,MA,Boston,Suffolk County,Online News Organization,Local,No,openmediaboston.org
+DG0173,North End Waterfront,MA,Boston,Suffolk County,Online News Organization,Local,No,northendwaterfront.com
+DG0174,Jamaica Plain News,MA,Jamaica Plain,Suffolk County,Online News Organization,Local,No,jamaicaplainnews.com
+DG0175,Go Local Worcester,MA,Worcester,Worcester County,Online News Organization,Local,No,golocalworcester.com
+DG0176,Worcester Sun,MA,Worcester,Worcester County,Online News Organization,Local,No,worcester.ma
+DG0177,Technical.ly Baltimore,MD,Baltimore,Baltimore City,Online News Organization,Local,No,technical.ly/baltimore
+DG0178,Baltimore Brew,MD,Baltimore,Baltimore City,Online News Organization,Local,No,baltimorebrew.com
+DG0179,SouthBMore.com,MD,Baltimore,Baltimore City,Online News Organization,Local,No,southbmore.com
+DG0180,Baltimore Fishbowl,MD,Baltimore,Baltimore City,Online News Organization,Local,No,baltimorefishbowl.com
+DG0181,Nottingham MD,MD,Nottingham,Baltimore County,Online News Organization,Local,No,nottinghammd.com
+DG0182,Bel Air News and Views,MD,Bel Air,Harford County,Online News Organization,Local,No,belairnewsandviews.com
+DG0183,Dagger Press,MD,Harford,Harford County,Online News Organization,Local,No,daggerpress.com
+DG0184,Maryland Reporter,MD,Columbia,Howard County,Online News Organization,State,No,marylandreporter.com
+DG0185,Chestertown Spy,MD,Chestertown,Kent County,Online News Organization,Local,No,chestertownspy.org
+DG0186,Germantown Pulse,MD,Germantown,Montgomery County,Online News Organization,Local,No,germantownpulse.net
+DG0187,MyMCMedia,MD,Rockville,Montgomery County,Online News Organization,Local,No,mymcmedia.org
+DG0188,Bethesda Beat,MD,Bethesda,Montgomery County,Online News Organization,Local,No,bethesdabeat.com
+DG0189,Maryland Matters,MD,Takoma Park,Montgomery County,Online News Organization,State,No,marylandmatters.org
+DG0190,Fiddlehead Focus,ME,Madawaska,Aroostook County,Online News Organization,Local,No,fiddleheadfocus.com
+DG0191,Daily Bulldog,ME,Farmington,Franklin County,Online News Organization,Local,No,dailybulldog.com
+DG0192,Pine Tree Watch,ME,Hallowell,Kennebec County,Online News Organization,State,No,pinetreewatch.org
+DG0193,Maine Edge,ME,Bangor,Penobscot County,Online News Organization,State,No,themaineedge.com
+DG0194,East Lansing Info,MI,East Lansing,Clinton County,Online News Organization,Local,No,eastlansinginfo.org
+DG0195,Great Lakes Echo,MI,Lansing,Clinton County,Online News Organization,Regional,No,greatlakesecho.org
+DG0196,Flint Beat,MI,Flint,Genesee County,Online News Organization,Local,No,flintbeat.com
+DG0197,Portland Beacon,MI,Portland,Ionia County,Online News Organization,Local,No,theportlandbeacon.com
+DG0198,Local Spins,MI,Grand Rapids,Kent County,Online News Organization,Local,No,localspins.com
+DG0199,Rapidian,MI,Grand Rapids,Kent County,Online News Organization,Local,No,therapidian.org
+DG0200,GR Kids,MI,Grand Rapids,Kent County,Online News Organization,Local,No,grkids.com
+DG0201,Oakland County 115,MI,Ferndale,Oakland County,Online News Organization,Local,No,oaklandcounty115.com
+DG0202,Farmington Voice,MI,Farmington,Oakland County,Online News Organization,Local,No,farmingtonvoice.com
+DG0203,Chelsea Update,MI,Chelsea,Washtenaw County,Online News Organization,Local,No,chelseaupdate.com
+DG0204,Saline Post,MI,Saline,Washtenaw County,Online News Organization,Local,No,thesalinepost.com
+DG0205,Detour Detroit,MI,Detroit,Wayne County,Online News Organization,Local,No,detourdetroiter.com
+DG0206,Redford Sentinel,MI,Livonia,Wayne County,Online News Organization,Local,No,redfordsentinel.com
+DG0207,Bridge Michigan,MI,Detroit,Wayne County,Online News Organization,State,No,bridgemi.com
+DG0208,Deadline Detroit,MI,Detroit,Wayne County,Online News Organization,Local,No,deadlinedetroit.com
+DG0209,MinnPost,MN,Minneapolis,Hennepin County,Online News Organization,State,No,minnpost.com
+DG0210,Midwest Energy News,MN,St Paul,Ramsey County,Online News Organization,Regional,No,midwestenergynews.com
+DG0211,Sahan Journal,MN,Saint Paul,Ramsey County,Online News Organization,State,No,sahanjournal.com
+DG0212,Stillwater Gazette,MN,Stillwater,Washington County,Online News Organization,Local,No,hometownsource.com/stillwater_gazette
+DG0213,North Wright County Today,MN,Albertville,Wright County,Online News Organization,Local,No,northwrightcounty.today
+DG0214,Columbia Heartbeat,MO,Columbia,Boone County,Online News Organization,Local,No,columbiaheartbeat.com
+DG0215,Beacon,MO,Kansas City,Jackson County,Online News Organization,Regional,No,thebeacon.media
+DG0216,70 West Sentinel,MO,Josephville,St. Charles County,Online News Organization,Local,No,70westsentinel.com
+DG0217,40 South News,MO,Brentwood,St. Louis County,Online News Organization,Local,No,40southnews.com
+DG0218,Mississippi Today,MS,Ridgeland,Madison County,Online News Organization,State,No,mississippitoday.org
+DG0219,Deep South Voice,MS,Columbia,Marion County,Online News Organization,Regional,No,deepsouthvoice.com
+DG0220,Electric,MT,Great Falls,Cascade County,Online News Organization,Local,No,theelectricgf.com
+DG0221,Montana Free Press,MT,Helena,Lewis and Clark County,Online News Organization,State,No,montanafreepress.org
+DG0222,Missoula Current,MT,Missoula,Missoula County,Online News Organization,Local,No,missoulacurrent.com
+DG0223,Southerly,KY,,,Online News Organization,Regional,No,southerlymag.org
+DG0224,Bladen Online,NC,Elizabethtown,Bladen County,Online News Organization,Local,No,bladenonline.com
+DG0225,Carolina Public Press,NC,Asheville,Buncombe County,Online News Organization,Local,No,carolinapublicpress.org
+DG0226,Blowing Rock News,NC,Blowing Rock,Caldwell County,Online News Organization,Local,No,blowingrocknews.com
+DG0227,Coastal Review Online,NC,Newport,Carteret County,Online News Organization,Local,No,coastalreview.org
+DG0228,Cary Citizen,NC,Cary,Chatham County,Online News Organization,Local,No,carycitizen.com
+DG0229,New Bern Post,NC,New Bern,Craven County,Online News Organization,Local,No,newbernpost.com
+DG0230,New Bern Now,NC,New Bern,Craven County,Online News Organization,Local,No,newbernnow.com
+DG0231,Durham Sky Writer,NC,Durham,Durham County,Online News Organization,Local,No,durhamskywriter.com
+DG0232,North Carolina Health News,NC,Chapel Hill,Durham County,Online News Organization,State,No,northcarolinahealthnews.org
+DG0233,Q City Metro,NC,Charlotte,Mecklenburg County,Online News Organization,Local,No,qcitymetro.com
+DG0234,Charlotte Agenda,NC,Charlotte,Mecklenburg County,Online News Organization,Local,No,charlotteagenda.com
+DG0235,Charlotte Ledger,NC,Charlotte,Mecklenburg County,Online News Organization,Local,No,charlotteledger.substack.com
+DG0236,La Noticia,NC,Charlotte,Mecklenburg County,Online News Organization,Local,Yes,lanoticia.com
+DG0237,Port City Daily,NC,Wilmington,New Hanover County,Online News Organization,Local,No,portcitydaily.com
+DG0238,Raleigh Convergence,NC,Raleigh,Wake County,Online News Organization,Local,No,raleighconvergence.com
+DG0239,WataugaOnline.com,NC,Boone,Watauga County,Online News Organization,Local,No,wataugaonline.com
+DG0240,Building the Bakken,ND,Fargo,Cass County,Online News Organization,Local,No,thecrudelife.com
+DG0241,Manchester Ink Link,NH,Manchester,Hillsborough County,Online News Organization,Local,No,manchesterinklink.com
+DG0242,In Depth New Hampshire,NH,Barrington,Strafford County,Online News Organization,State,No,indepthnh.org
+DG0243,New Hampshire Center for Public Interest Journalism,NH,,,Online News Organization,State,No,indepthnh.org
+DG0244,Route 40 News,NJ,Margate City,Atlantic County,Online News Organization,Local,No,rtforty.com
+DG0245,Breaking AC,NJ,Atlantic City,Atlantic County,Online News Organization,Local,No,breakingac.com
+DG0246,AC Primetime,NJ,Atlantic City,Atlantic County,Online News Organization,Local,No,acprimetime.com
+DG0247,Brigantine Now,NJ,Brigantine,Atlantic County,Online News Organization,Local,No,brigantinenow.com
+DG0248,Down Beach Buzz,NJ,Margate City,Atlantic County,Online News Organization,Local,No,downbeachbuzz.com
+DG0249,Cliffview Pilot,NJ,Westwood,Bergen County,Online News Organization,Local,No,cliffviewpilot.com
+DG0250,Glen Rock News Today,NJ,Glen Rock,Burgen County,Online News Organization,Local,No,glenrocknews.today
+DG0251,70and73,NJ,Marlton,Burlington County,Online News Organization,Local,No,70and73.com
+DG0252,Gloucester City News,NJ,Gloucester City,Camden County,Online News Organization,Local,No,gloucestercitynews.net
+DG0253,NJ Pen,NJ,Camden,Camden County,Online News Organization,State,No,njpen.com
+DG0254,OC NJ Daily,NJ,Ocean City,Cape May County,Online News Organization,Local,No,ocnjdaily.com
+DG0255,SNJToday.com,NJ,south jersey,County,Online News Organization,Local,No,snjtoday.com
+DG0256,Brick City Live,NJ,Newark,Essex County,Online News Organization,Local,No,brickcitylive.com
+DG0257,TAP into Livingston,NJ,Livingston,Essex County,Online News Organization,Local,No,thealternativepress.com/towns/livingston
+DG0258,TAP into West Orange,NJ,West Orange,Essex County,Online News Organization,Local,No,thealternativepress.com/towns/west-orange
+DG0259,TAP into Millburn,NJ,Millburn,Essex County,Online News Organization,Local,No,tapintomillburn.net
+DG0260,Jersey Tomato Press,NJ,Caldwell,Essex County,Online News Organization,Local,No,thejerseytomatopress.com
+DG0261,Baristanet,NJ,Montclair,Essex County,Online News Organization,Local,No,baristanet.com
+DG0262,Village Green,NJ,Maplewood,Essex County,Online News Organization,Local,No,villagegreennj.com
+DG0263,TAP into East Orange,NJ,East Orange,Essex County,Online News Organization,Local,No,thealternativepress.com/towns/east-orange
+DG0264,TAP into Montclair,NJ,Montclair,Essex County,Online News Organization,Local,No,thealternativepress.com/towns/montclair
+DG0265,Newark Pulse,NJ,Newark,Essex County,Online News Organization,Local,No,newarkpulse.com
+DG0266,My Verona NJ,NJ,Verona,Essex County,Online News Organization,Local,No,myveronanj.com
+DG0267,TAP into SOMA,NJ,South Orange,Essex County,Online News Organization,Local,No,tapintosoma.net
+DG0268,TAP into West Essex,NJ,West Essex,Essex County,Online News Organization,Local,No,thealternativepress.com/towns/west-essex
+DG0269,NJ Spotlight,NJ,Montclair,Essex County,Online News Organization,State,No,njspotlight.com
+DG0270,Hudson Mile Square View,NJ,Hoboken,Hudson County,Online News Organization,Local,No,hobokenhorse.com
+DG0271,Hudson County View,NJ,,Hudson County,Online News Organization,Local,No,hudsoncountyview.com
+DG0272,NJ Environment News,NJ,Frenchtown,Hunterdon County,Online News Organization,State,No,njenvironmentnews.com
+DG0273,Planet Princeton,NJ,Princeton,Mercer County,Online News Organization,Local,No,planetprinceton.com
+DG0274,MercerMe,NJ,Hopewell Valley,Mercer County,Online News Organization,Local,No,mercerme.com
+DG0275,New Brunswick Today,NJ,New Brunswick,Middlesex County,Online News Organization,Local,No,newbrunswicktoday.com
+DG0276,TAP into South Plainfield,NJ,South Plainfield,Middlesex County,Online News Organization,Local,No,thealternativepress.com/towns/south-plainfield
+DG0277,Dunellen 411,NJ,Dunellen,Middlesex County,Online News Organization,Local,No,dunellen411.com
+DG0278,TAP into Edison,NJ,Edison,Middlesex County,Online News Organization,Local,No,thealternativepress.com/towns/edison
+DG0279,Highland Park Planet,NJ,Highland Park,Middlesex County,Online News Organization,Local,No,highlandparkplanet.org
+DG0280,Amboy Guardian,NJ,Perth Amboy,Middlesex County,Online News Organization,Local,No,amboyguardian.com
+DG0281,Asbury Park Sun,NJ,Asbury Park,Monmouth County,Online News Organization,Local,No,asburyparksun.com
+DG0282,Tap Into Holmdel,NJ,Holmdel,Monmouth County,Online News Organization,Local,No,tapintoholmdel.net
+DG0283,More Monmouth Musings,NJ,Monmouth,Monmouth County,Online News Organization,Local,No,moremonmouthmusings.net
+DG0284,Redbank Green,NJ,Redbank,Monmouth County,Online News Organization,Local,No,redbankgreen.com
+DG0285,TAP into Chatham,NJ,Chatham,Morris County,Online News Organization,Local,No,tapinto.net/towns/scotch-plains-slash-fanwood
+DG0286,TAP into Madison,NJ,Madison,Morris County,Online News Organization,Local,No,tapinto.net/towns/scotch-plains-slash-fanwood
+DG0287,Morristown Green,NJ,Morristown,Morris County,Online News Organization,Local,No,morristowngreen.com
+DG0288,TAP into Morristown,NJ,Morristown,Morris County,Online News Organization,Local,No,thealternativepress.com/towns/morristown
+DG0289,TAP into Randolph,NJ,Randolph,Morris County,Online News Organization,Local,No,thealternativepress.com/towns/randolph
+DG0290,Parsippany Focus,NJ,Parsippany,Morris County,Online News Organization,Local,No,parsippanyfocus.com
+DG0291,Brick Shorebeat,NJ,Brick,Ocean County,Online News Organization,Local,No,brick.shorebeat.com
+DG0292,Lakewood Scoop,NJ,Lakewood,Ocean County,Online News Organization,Local,No,thelakewoodscoop.com
+DG0293,Paterson Times,NJ,Paterson,Passaic County,Online News Organization,Local,No,patersontimes.com
+DG0294,TAP into The Breeze,NJ,Bridgewater,Somerset County,Online News Organization,Local,No,thealternativepress.com/towns/bridgewater-raritan
+DG0295,Franklin Reporter & Advocate,NJ,Franklin,Sussex County,Online News Organization,Local,No,franklinreporter.com
+DG0296,TAP into Hardyston,NJ,Hardyston,Sussex County,Online News Organization,Local,No,tapinto.net/towns/millburn-slash-short-hills
+DG0297,TAP into Newton,NJ,Newton,Sussex County,Online News Organization,Local,No,tapinto.net/towns/summit
+DG0298,TAP into Sparta,NJ,Sparta,Sussex County,Online News Organization,Local,No,thealternativepress.com/towns/sparta
+DG0299,TAP into Sussex,NJ,Sussex,Sussex County,Online News Organization,Local,No,tapinto.net/towns/sparta
+DG0300,TAP into Vernon,NJ,Vernon,Sussex County,Online News Organization,Local,No,tapinto.net/towns/berkeley-heights
+DG0301,Cranford Radio,NJ,Cranford,Union County,Online News Organization,Local,No,cranfordradio.com
+DG0302,TAP into Berkeley Heights,NJ,Berkeley Heights,Union County,Online News Organization,Local,No,thealternativepress.com/towns/berkeley-heights
+DG0303,TAP into New Providence,NJ,New Providence,Union County,Online News Organization,Local,No,thealternativepress.com/towns/new-providence
+DG0304,TAP into Clark,NJ,Clark,Union County,Online News Organization,Local,No,thealternativepress.com/towns/clark
+DG0305,TAP into Summit,NJ,Summit,Union County,Online News Organization,Local,No,tapinto.net/towns/newton
+DG0306,TAP into Westfield,NJ,Westfield,Union County,Online News Organization,Local,No,thealternativepress.com/towns/westfield
+DG0307,TAP into Scotch Plains,NJ,Scotch Plains,Union County,Online News Organization,Local,No,tapinto.net/towns/hardyston
+DG0308,Rahway Rising,NJ,Rahway,Union County,Online News Organization,Local,No,rahwayrising.com
+DG0309,Civic Story,NJ,Summit,Union County,Online News Organization,State,No,civicstory.org
+DG0310,NJNext.com,NJ,,,Online News Organization,State,No,njnext.com
+DG0311,New Mexico Compass,NM,Albuquerque,Bernalillo County,Online News Organization,State,No,kunm.org/news
+DG0312,New Mexico In-Depth,NM,Rio Rancho,Bernalillo County,Online News Organization,State,No,nmindepth.com
+DG0313,Grant County Beat,NM,Silver City,Grant County,Online News Organization,Local,No,grantcountybeat.com
+DG0314,Searchlight New Mexico,NM,Santa Fe,Santa Fe County,Online News Organization,State,No,searchlightnm.com
+DG0315,Carson Now,NV,Carson,Carson City,Online News Organization,Local,No,carsonnow.org
+DG0316,Nevada Independent,NV,Las Vegas,Clark County,Online News Organization,State,No,thenevadaindependent.com
+DG0317,This is Reno,NV,Reno,Washoe County,Online News Organization,Local,No,thisisreno.com
+DG0318,Nevada Capital News,NV,Reno,Washoe County,Online News Organization,State,No,sierranevadaally.org
+DG0319,Cortland Voice,NY,Cortland,Cortland County,Online News Organization,Local,No,cortlandvoice.com
+DG0320,Cheektowaga Chronicle,NY,Cheektowaga,Erie County,Online News Organization,Local,No,cheektowagachronicle.com
+DG0321,Investigative Post,NY,Buffalo,Erie County,Online News Organization,Local,No,investigativepost.org
+DG0322,Buffalo Rising,NY,Buffalo,Erie County,Online News Organization,Local,No,buffalorising.com
+DG0323,Batavian,NY,Batavia,Genesee County,Online News Organization,Local,No,thebatavian.com
+DG0324,Watershed Post,NY,Catskills,Greene County,Online News Organization,Local,No,watershedpost.com
+DG0325,BK Reader,NY,Brooklyn,Kings County,Online News Organization,Local,No,bkreader.com
+DG0326,Technical.ly Brooklyn,NY,Brooklyn,Kings County,Online News Organization,Local,No,technical.ly/brooklyn
+DG0327,BKLYNER,NY,Brooklyn,Kings County,Online News Organization,Local,No,bklyner.com
+DG0328,Bushwick Daily,NY,Brooklyn,Kings County,Online News Organization,Local,No,bushwickdaily.com
+DG0329,Brownstoner,NY,Brooklyn,Kings County,Online News Organization,Local,No,brownstoner.com
+DG0330,Greenpointers,NY,Brooklyn,Kings County,Online News Organization,Local,No,greenpointers.com
+DG0331,Corner News Media,NY,Brooklyn,Kings County,Online News Organization,Local,No,cornermedia.com/blog
+DG0332,Bridge BK,NY,Brooklyn,Kings County,Online News Organization,Local,No,thebridgebk.com
+DG0333,Uptown Collective,NY,New York,Kings County,Online News Organization,Local,No,uptowncollective.com
+DG0334,City Limits,NY,New York,Kings County,Online News Organization,Local,No,citylimits.org
+DG0335,Tribeca Citizen,NY,New York,Kings County,Online News Organization,Local,No,tribecacitizen.com
+DG0336,Roosevelt Islander Online,NY,New York,Kings County,Online News Organization,Local,No,rooseveltislander.blogspot.com
+DG0337,Gotham Gazette,NY,New York,Kings County,Online News Organization,Local,No,gothamgazette.com
+DG0338,KingsCountyPolitics.com,NY,Brooklyn,Kings County,Online News Organization,Local,No,kingscountypolitics.com
+DG0339,City,NY,New York,Kings County,Online News Organization,Local,No,thecity.nyc
+DG0340,Documented,NY,New York,Kings County,Online News Organization,State,No,documentedny.com
+DG0341,Genesee Sun,NY,Geneseo,Livingston County,Online News Organization,Local,No,geneseesun.com
+DG0342,Rochester Beacon,NY,Rochester,Monroe County,Online News Organization,Local,No,rochesterbeacon.com
+DG0343,Lo-Down,NY,Manhattan,New York County,Online News Organization,Local,No,thelodownny.com
+DG0344,Delaware Currents,NY,Port Jervis,Orange County,Online News Organization,State,No,delawarecurrents.org
+DG0345,Orleans Hub,NY,Albion,Orleans County,Online News Organization,Local,No,orleanshub.com
+DG0346,Oswego County Today,NY,Fulton,Oswego County,Online News Organization,Local,No,oswegocountytoday.com
+DG0347,Highlands Current,NY,Cold Spring,Putnam County,Online News Organization,Local,No,highlandscurrent.com
+DG0348,Riverhead Local,NY,Riverhead,Suffolk County,Online News Organization,Local,No,riverheadlocal.com
+DG0349,Bellport.com,NY,Bellport,Suffolk County,Online News Organization,Local,No,bellport.com
+DG0350,Huntington Now,NY,Huntington,Suffolk County,Online News Organization,Local,No,huntingtonnow.com
+DG0351,OnSachem.com,NY,Holbrook,Suffolk County,Online News Organization,Local,No,onsachem.com
+DG0352,Ithaca Voice,NY,Ithaca,Tompkins County,Online News Organization,Local,No,ithacavoice.com
+DG0353,News Atomic,NY,Kingston,Ulster,Online News Organization,State,No,newsatomic.com
+DG0354,West Chester Hispano,NY,White Plains,Westchester County,Online News Organization,Local,No,westchesterhispano.net
+DG0355,Talk of the Sound,NY,New Rochelle,Westchester County,Online News Organization,Local,No,newrochelletalk.com
+DG0356,MyRye.com,NY,Rye,Westchester County,Online News Organization,Local,No,myrye.com
+DG0357,Loop NY,NY,Larchmont,Westchester County,Online News Organization,State,No,theloopny.com
+DG0358,Bluffton Icon,OH,Bluffton,Allen County,Online News Organization,Local,No,blufftonicon.com
+DG0359,Loveland Magazine,OH,Loveland,Clermont County,Online News Organization,Local,No,lovelandmagazine.com
+DG0360,Real Deal Press,OH,Cleveland,Cuyahoga County,Online News Organization,Local,No,therealdealpress.com
+DG0361,Columbus Navigator,OH,Columbus,Delaware County,Online News Organization,Local,No,columbusnavigator.com
+DG0362,Columbus Underground,OH,Columbus,Delaware County,Online News Organization,Local,No,columbusunderground.com
+DG0363,Matter News,OH,Columbus,Franklin County,Online News Organization,Local,No,matternews.org
+DG0364,Gallia Herald,OH,Gallia County,Gallia County,Online News Organization,Local,No,galliahometownherald.com
+DG0365,Ada Icon,OH,Ada,Hardin County,Online News Organization,Local,No,adaicon.com
+DG0366,Mahoning Matters,OH,Mahoning Valley,Mahoning County,Online News Organization,Local,No,mahoningmatters.com/other/about
+DG0367,Richland Source,OH,Mansfield,Richland County,Online News Organization,Local,No,richlandsource.com
+DG0368,Akronist,OH,Akron,Summit County,Online News Organization,Local,No,akronist.com
+DG0369,Clutch MOV,OH,Marietta,Washington County,Online News Organization,Local,No,clutchmov.com
+DG0370,Oklahoma Watch,OK,Norman,Cleveland County,Online News Organization,State,No,oklahomawatch.org
+DG0371,Sapulpa Times,OK,Sapulpa,Creek County,Online News Organization,Local,No,sapulpatimes.com
+DG0372,Oklahoma City Free Press,OK,Oklahoma City,Oklahoma County,Online News Organization,Local,No,freepressokc.com
+DG0373,Luther Register,OK,Luther,Oklahoma County,Online News Organization,Local,No,lutherregister.news
+DG0374,Frontier,OK,Jenks,Tulsa County,Online News Organization,State,No,readfrontier.com
+DG0375,Columbia Insight,OR,Hood River,Hood River County,Online News Organization,Local,No,columbiainsight.org
+DG0376,Bike Portland,OR,Portland,Multnomah County,Online News Organization,Local,No,bikeportland.org
+DG0377,Go Local PDX,OR,Portland,Multnomah County,Online News Organization,State,No,golocalpdx.com
+DG0378,Lund Report,OR,Portland,Multnomah County,Online News Organization,State,No,thelundreport.org
+DG0379,Banks Post,OR,Banks,Washington County,Online News Organization,Local,No,bankspost.com
+DG0380,Gales Creek Journal,OR,Gales Creek,Washington County,Online News Organization,Local,No,galescreekjournal.com
+DG0381,Gettysburg Connection,PA,Gettysburg,Adams County,Online News Organization,Local,No,gettysburgconnection.org/category/news
+DG0382,Incline,PA,Pittsburgh,Allegheny County,Online News Organization,Local,No,theincline.com
+DG0383,Public Source,PA,Pittsburgh,Allegheny County,Online News Organization,Local,No,publicsource.org
+DG0384,Next Pittsburgh,PA,Pittsburgh,Allegheny County,Online News Organization,Local,No,nextpittsburgh.com
+DG0385,Tube City Almanac,PA,McKeesport,Allegheny County,Online News Organization,Local,No,tubecityonline.com
+DG0386,Levittown Now,PA,Levittown,Bucks County,Online News Organization,Local,No,levittownnow.com
+DG0387,Onward State,PA,State College,Centre County,Online News Organization,Local,No,onwardstate.com
+DG0388,PSU Underground,PA,State College,Centre County,Online News Organization,Local,No,psuunderground.com
+DG0389,State College.com,PA,State College,Centre County,Online News Organization,State,No,statecollege.com
+DG0390,Spotlight PA,PA,Harrisburg,Dauphin County,Online News Organization,State,No,spotlightpa.org
+DG0391,Chadds Ford Live,PA,Chadds Ford,Delaware County,Online News Organization,Local,No,chaddsfordlive.com
+DG0392,Franklin County Free Press,PA,Chambersburg,Franklin County,Online News Organization,Local,No,fcfreepress.com
+DG0393,Leb Town,PA,Lebanon,Lebanon County,Online News Organization,Local,No,lebtown.com
+DG0394,NorthcentralPA,PA,Montoursville,Lycoming County,Online News Organization,Local,No,northcentralpa.com
+DG0395,Sanatoga Post,PA,Sanatoga,Montgomery County,Online News Organization,Local,No,sanatogapost.com
+DG0396,More Than The Curve,PA,Conshohocken,Montgomery County,Online News Organization,Local,No,morethanthecurve.com
+DG0397,Saucon Source,PA,Hellertown,Northampton County,Online News Organization,Local,No,sauconsource.com
+DG0398,Philadelphia Obituary Project,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,phillyobitproject.com
+DG0399,Technical.ly Philly,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,technical.ly/philly
+DG0400,Billy Penn,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,billypenn.com
+DG0401,Hidden City Philadelphia,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,hiddencityphila.org
+DG0402,West Philly Local,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,westphillylocal.com
+DG0403,East Falls Local,PA,Philadelphia,Philadelphia County,Online News Organization,Local,No,eastfallslocal.com
+DG0404,East Greenwich News,RI,East Greenwich,Kent County,Online News Organization,Local,No,eastgreenwichnews.com
+DG0405,WhatsUpNewp,RI,Newport,Newport County,Online News Organization,Local,No,whatsupnewp.com
+DG0406,Go Local Providence,RI,Providence,Providence County,Online News Organization,Local,No,golocalprov.com
+DG0407,Eco RI,RI,Providence,Providence County,Online News Organization,Regional,No,ecori.org
+DG0408,Noticias Rhode Island,RI,Providence,Providence County,Online News Organization,State,Yes,noticiasrhodeisland.com
+DG0409,RINewsToday,RI,,,Online News Organization,State,No,rinewstoday.com
+DG0410,GAB News Online,SC,Georgetown,Georgetown County,Online News Organization,Local,No,gabnewsonline.com
+DG0411,Travelers Rest Tribune,SC,Travelers Rest,Greenville County,Online News Organization,Local,No,trtribune.com
+DG0412,Carolina Panorama,SC,Columbia,Lexington County,Online News Organization,Local,Yes,carolinapanorama.com
+DG0413,Fort Mill Sun,SC,Fort Mill,York County,Online News Organization,Local,No,fortmillsun.com
+DG0414,Sioux Falls Business,SD,Sioux Falls,Minnehaha County,Online News Organization,Local,No,siouxfalls.business
+DG0415,South Dakota News Watch,SD,Sioux Falls,Minnehaha County,Online News Organization,State,No,sdnewswatch.org
+DG0416,Oak Ridge Today,TN,Oak Ridge,Anderson County,Online News Organization,Local,No,oakridgetoday.com
+DG0417,AntiochTenn.com,TN,Antioch,Davidson County,Online News Organization,Local,No,antiochtenn.com
+DG0418,Nashville Noticias,TN,Nashville,Davidson County,Online News Organization,Local,Yes,nashvillenoticias.com
+DG0419,Rutherford Source,TN,Rutherford,Gibson County,Online News Organization,Local,No,rutherfordsource.com
+DG0420,Nooga.com,TN,Chattanooga,Hamilton County,Online News Organization,Local,No,nooga.com
+DG0421,Chattanoogan,TN,Chattanooga,Hamilton County,Online News Organization,Local,No,chattanoogan.com
+DG0422,Knoxville TN Today,TN,Knoxville,Knox County,Online News Organization,Local,No,knoxtntoday.com
+DG0423,Spring Hill Home Page,TN,Spring Hill,Maury County,Online News Organization,Local,No,springhillhomepage.com
+DG0424,MLK 50,TN,Memphis,Shelby County,Online News Organization,Local,No,mlk50.com
+DG0425,Daily Memphian,TN,Memphis,shelby county,Online News Organization,Local,No,dailymemphian.com
+DG0426,Sumner Home Page,TN,Sumner,Sumner County,Online News Organization,Local,No,sumnerhomepage.com
+DG0427,Brentwood Home Page,TN,Brentwood,Williamson County,Online News Organization,Local,No,brentwoodhomepage.com
+DG0428,Franklin Home Page,TN,Franklin,Williamson County,Online News Organization,Local,No,franklinhomepage.com
+DG0429,Nolensville Home Page,TN,Nolensville,Williamson County,Online News Organization,Local,No,nolensvillehomepage.com
+DG0430,Williamson Source,TN,Williamson,Williamson County,Online News Organization,Local,No,williamsonsource.com
+DG0431,NowCastSA,TX,San Antonio,Bexar County,Online News Organization,Local,No,nowcastsa.org
+DG0432,Rivard Report,TX,San Antonio,Bexar County,Online News Organization,Local,No,therivardreport.com
+DG0433,TXK Today,TX,Texarkana,Bowie County,Online News Organization,Local,No,txktoday.com
+DG0434,ArkLaTex News,TX,Texarkana,Bowie County,Online News Organization,Local,No,arklatexnews.com
+DG0435,Rio Grande Guadian,TX,Brownsville,Cameron County,Online News Organization,Local,No,riograndeguardian.com
+DG0436,Green Source DFW,TX,Dallas,Dallas County,Online News Organization,Local,No,greensourcedfw.org
+DG0437,Advocate Media - Dallas,TX,Dallas,Dallas County,Online News Organization,Local,No,advocatemag.com
+DG0438,El Paso Herald Post,TX,El Paso,El Paso County,Online News Organization,Local,No,epheraldpost.com
+DG0439,Covering Katy,TX,Katy,Fort Bend County,Online News Organization,Local,No,coveringkaty.com
+DG0440,Space City Weather,TX,Houston,Harris County,Online News Organization,Local,No,spacecityweather.com
+DG0441,Tyler Loop,TX,Tyler,Smith County,Online News Organization,Local,No,thetylerloop.com
+DG0442,Breckenridge Texan,TX,Breckenridge,Stephens County,Online News Organization,Local,No,breckenridgetexan.com
+DG0443,Local News Only,TX,Colleyville,Tarrant County,Online News Organization,Local,No,localnewsonly.com
+DG0444,Arlington Voice,TX,Arlington,Tarrant County,Online News Organization,Local,No,arlingtonvoice.com
+DG0445,San Angelo Live,TX,San Angelo,Tom Green County,Online News Organization,Local,No,sanangelolive.com
+DG0446,Austin Monitor,TX,Austin,Travis County,Online News Organization,Local,No,austinmonitor.com
+DG0447,Austin Bulldog,TX,Austin,Travis County,Online News Organization,Local,No,theaustinbulldog.org
+DG0448,Silicon Hills News,TX,Austin,Travis County,Online News Organization,Local,No,siliconhillsnews.com
+DG0449,Texas Tribune,TX,Austin,Travis County,Online News Organization,State,No,texastribune.com
+DG0450,Lehi Free Press,UT,Lehi,Utah County,Online News Organization,Local,No,lehifreepress.com
+DG0451,Covering the Corridor,VA,Alexandria,Alexandria City,Online News Organization,Local,No,coveringthecorridor.com
+DG0452,ARL Now,VA,Arlington,Arlington County,Online News Organization,Local,No,arlnow.com
+DG0453,DC Commute Times,VA,Arlington,Arlington County,Online News Organization,Local,No,dccommutetimes.com
+DG0454,Charlottesville Tomorrow,VA,Charlottesville,Charlottesville City,Online News Organization,Local,No,cvilletomorrow.org
+DG0455,Reston Now,VA,Reston,Fairfax County,Online News Organization,Local,No,restonnow.com
+DG0456,Fauquier Now,VA,Warrenton,Fauquier County,Online News Organization,Local,No,fauquiernow.com
+DG0457,Fredericksburg Today,VA,Fredericksburg,Fredericksburg City,Online News Organization,Local,No,fredericksburg.today
+DG0458,Bristow Beat,VA,Bristow,Prince William County,Online News Organization,Local,No,bristowbeat.com
+DG0459,What's Up Prince William,VA,Woodbridge,Prince William County,Online News Organization,Local,No,whatsupwoodbridge.com
+DG0460,Foothills Forum,VA,Washington,Rappahannock County,Online News Organization,Local,No,foothills-forum.org
+DG0461,Richmond Biz Sense,VA,Richmond,Richmond City,Online News Organization,Local,No,richmondbizsense.com
+DG0462,Church Hill People,VA,Richmond,Richmond City,Online News Organization,Local,No,chpn.net
+DG0463,Potomac Local,VA,Stafford,Stafford County,Online News Organization,Local,No,potomaclocal.com
+DG0464,Royal Examiner,VA,Front Royal,Warren County,Online News Organization,Local,No,royalexaminer.com
+DG0465,Newport Dispatch,VT,Derby Line,Orleans County,Online News Organization,Local,No,newportdispatch.com
+DG0466,VT Digger,VT,Montpelier,Washington County,Online News Organization,State,No,vtdigger.com
+DG0467,Chester Telegraph,VT,Chester,Windsor County,Online News Organization,Local,No,chestertelegraph.org
+DG0468,Capitol Hill Seattle,WA,Seattle,King County,Online News Organization,Local,No,capitolhillseattle.com
+DG0469,Evergrey,WA,Seattle,King County,Online News Organization,Local,No,theevergrey.com
+DG0470,B-Town Blog,WA,Burien,King County,Online News Organization,Local,No,b-townblog.com
+DG0471,iLoveKent,WA,Kent,King County,Online News Organization,Local,No,ilovekent.net
+DG0472,West Seattle Blog,WA,Seattle,King County,Online News Organization,Local,No,westseattleblog.com
+DG0473,PhinneyWood.com,WA,Seattle,King County,Online News Organization,Local,No,phinneywood.com
+DG0474,South King Media,WA,Burien,King County,Online News Organization,Local,No,southkingmedia.com
+DG0475,Sammamish Comment,WA,Sammamish,King County,Online News Organization,Local,No,sammamish.news
+DG0476,Seattle City Council Insight,WA,Seattle,King County,Online News Organization,Local,No,sccinsight.com
+DG0477,Investigate West,WA,Seattle,King County,Online News Organization,Regional,No,invw.org
+DG0478,Crosscut,WA,Seattle,King County,Online News Organization,State,No,crosscut.com
+DG0479,Channel 253,WA,Tacoma,Pierce County,Online News Organization,Local,No,channel253.com
+DG0480,Lynwood Today,WA,Lynnwood,Snohomish County,Online News Organization,Local,No,lynnwoodtoday.com
+DG0481,MLT News,WA,Mountlake Terrace,Snohomish County,Online News Organization,Local,No,mltnews.com
+DG0482,My Edmonds News,WA,Edmonds,Snohomish County,Online News Organization,Local,No,myedmondsnews.com
+DG0483,Spokane Faith and Values,WA,Spokane,Spokane County,Online News Organization,Local,No,spokanefavs.com
+DG0484,Olympia Standard,WA,Olympia,Thurston County,Online News Organization,Local,No,theolympiastandard.com
+DG0485,Madison 365,WI,Madison,Dane County,Online News Organization,Local,No,madison365.com
+DG0486,Forward Lookout,WI,Madison,Dane County,Online News Organization,Local,No,forwardlookout.com
+DG0487,Wisconsin Watch,WI,Madison,Dane County,Online News Organization,State,No,wisconsinwatch.org
+DG0488,Wis.Community,WI,Menonomie,Dunn County,Online News Organization,State,No,wis.community
+DG0489,West of the I,WI,Salem,Kenosha County,Online News Organization,Local,No,westofthei.com
+DG0490,Wausa Pilot and Review,WI,Wausa,Marathon County,Online News Organization,Local,No,wausaupilotandreview.com
+DG0491,Everything Greendale,WI,Greendale,Milwaukee County,Online News Organization,Local,No,patch.com/wisconsin/greendale
+DG0492,Urban Milwaukee,WI,Milwaukee,Milwaukee County,Online News Organization,Local,No,urbanmilwaukee.com
+DG0493,Milwaukee Record,WI,Milwaukee,Milwaukee County,Online News Organization,Local,No,milwaukeerecord.com
+DG0494,Milwaukee Neighborhood News Service,WI,Milwaukee,Milwaukee County,Online News Organization,Local,No,milwaukeenns.org
+DG0495,Racine County Eye,WI,Racine,Racine County,Online News Organization,Local,No,racinecountyeye.com
+DG0496,Badger Project,WI,,,Online News Organization,State,No,thebadgerproject.org
+DG0497,County10,WY,Riverton,Fremont County,Online News Organization,Local,No,county10.com
+DG0498,Wyofile,WY,Cheyenne,Laramie County,Online News Organization,State,No,wyofile.com
+DG0499,Oil City News,WY,Casper,Natrona County,Online News Organization,Local,No,oilcity.news
+DG0500,Sweetwater Now,WY,Rock Springs,Sweetwater County,Online News Organization,Local,No,sweetwaternow.com
